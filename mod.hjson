@@ -1,35 +1,24 @@
-displayName: "Yellow"
-name: "yellow-java"
-author: "SMOLKEYS"
-main: "yellow.Yellow"
+displayName: "AMONG US"
+name: "AMONGUS-java"
+author: "AMONGUSSUSSYBAKA"
+main: "amongus.Amongus"
 description: '''
-Chaos in a mod!
+Among us in a mod!
 
-Uprising from a basic shitpost JS mod to the very Java mod that defines my shitposting...
-...meet [yellow]Yellow[]!
+A mod with among us who haunts you
+
+...meet [red]Among us[]!
 
 Features:
 
-    - Yellow, the unit stronger than vanilla units but weaker than most modded units
-    - 10+ disableable weapons for Yellow of varying powers
-    - Spells (or Abilities)! Things that make Yellow do funny stuff
-    - 5 lives for Yellow, which invoke different effects for each life lost (this is 4/5th lie 1/5th truth)
-    
-As time passes, even more features will arrive. Come along!
-
-Have a chat about Yellow and other mods by me:
-[cyan]https://discord.com/invite/uAddT46bFx[]
+    - Among us who haunts you
 
 Send in any bugs and crashes here:
-[red]https://github.com/SMOLKEYS/yellow-java/issues[]
-Suggestions may also be sent here.
-
-Contribute to the mod here:
-[green]https://github.com/SMOLKEYS/yellow-java/pulls[]
+[red]Your dream! NO BUGS WILL BE PATCHED MUAHAHHA[]
 
 
-Let me know of anything directly through my Discord profile, [blue]@smolkeys_[]!
+Let me know of anything directly through my Discord profile, [blue]@bestname3971[]!
 '''
-version: 0.8
+version: 0.0
 minGameVersion: 146
 java: true
